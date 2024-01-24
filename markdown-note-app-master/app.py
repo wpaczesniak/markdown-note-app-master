@@ -243,11 +243,9 @@ def render():
             f"INSERT INTO notes (username, title, note, public, password_hash, AES_salt, init_vector) VALUES (?, ?, ?, ?, ?, ?, ?)", (username, title, encrypted, public, encryption_password_hash, salt, init_vector))
         db.commit()
         db.close()
-        # print("SSSSS")
         return render_template("markdown.html", rendered=rendered)
 
     else:
-        # print("ASSAS")
         cleaned = bleach.clean(md)
         rendered = markdown.markdown(cleaned)
         username = current_user.id
