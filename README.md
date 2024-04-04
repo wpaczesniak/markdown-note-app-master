@@ -16,34 +16,36 @@ The aim of the project was to put the security features of the app into practice
 
 ## Technologies:
 
-bleach: 6.1.0
-blinker: 1.7.0
-click: 8.1.7
-colorama: 0.4.6
-Flask: 3.0.2
-Flask-Login: 0.6.3
-gunicorn: 21.2.0
-itsdangerous: 2.1.2
-Jinja2: 3.1.3
-Markdown: 3.6
-MarkupSafe: 2.1.5
-packaging: 24.0
-passlib: 1.7.4
-pycryptodome: 3.20.0
-six: 1.16.0
-webencodings: 0.5.1
-Werkzeug: 3.0.2
+* bleach: 6.1.0
+* blinker: 1.7.0
+* click: 8.1.7
+* colorama: 0.4.6
+* Flask: 3.0.2
+* Flask-Login: 0.6.3
+* gunicorn: 21.2.0
+* itsdangerous: 2.1.2
+* Jinja2: 3.1.3
+* Markdown: 3.6
+* MarkupSafe: 2.1.5
+* packaging: 24.0
+* passlib: 1.7.4
+* pycryptodome: 3.20.0
+* six: 1.16.0
+* webencodings: 0.5.1
+* Werkzeug: 3.0.2
 
 ## Setup
+
 Activate Virtual Envirement
-myenvScriptsactivate
+``` myenv\Scripts\activate ```
 
 Install the required components:
 
-pip install -r requirements.txt
+``` pip install -r requirements.txt ```
 
 Then:
-sudo docker-compose up --build
+
+``` sudo docker-compose up --build ```
  
 ## Functionality
 The application allows selected notes (unencrypted) to be made available to other users. Acceptable 
@@ -65,13 +67,13 @@ The application has:
 
 
 ## Planned changes:
-security against Cross-Site Request Forgery (CSRF/XSRF tokens),
-possibility to recover access in case of password loss
-monitoring of system operation (e.g. to inform the user about new computers connecting to his account)
-leaving so-called honeypots,
-Content-Security-Policy mechanism,
-disabling the Server header.
-registering and logging in with a password and a second verification component using the TOTP (time-based one-time password) algorithm.
+* security against Cross-Site Request Forgery (CSRF/XSRF tokens),
+* possibility to recover access in case of password loss
+* monitoring of system operation (e.g. to inform the user about new computers connecting to his account)
+* leaving so-called honeypots,
+* content-Security-Policy mechanism,
+* disabling the Server header.
+* registering and logging in with a password and a second verification component using the TOTP (time-based one-time password) algorithm.
 
 ## Illustrations:
 
