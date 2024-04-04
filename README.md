@@ -33,6 +33,7 @@ The aim of the project was to put the security features of the app into practice
 * six: 1.16.0
 * webencodings: 0.5.1
 * Werkzeug: 3.0.2
+* SQLAlchemy-2.0.29
 
 ## Setup
 
