@@ -79,7 +79,7 @@ The application has:
 ## Illustrations:
 ### Sign In
 
-<img src="./Images/SignIn.jpg" width="300" height="400">
+<img src="./Images/SignIn.jpg" width="300" height="400" style="margin-right: 10px;">
 
 <img src="./Images/SignInIncorrect.jpg" width="300" height="400">
 ### Sign Up
