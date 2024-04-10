@@ -78,9 +78,10 @@ The application has:
 
 ## Illustrations:
 ### Sign In
-![SignIn](./Images/SignIn.jpg)
+
 <img src="./Images/SignIn.jpg" width="300" height="400">
-![IncorrectSignIn](./Images/SignInIncorrect.jpg)
+
+<img src="./Images/SignInIncorrect.jpg" width="300" height="400">
 ### Sign Up
 ![IncorrectSignUp](./Images/YouCantCreateAccountWithTakenUsername.jpg)
 ![IncorrectSignUp](./Images/SignUpInformation.jpg)
