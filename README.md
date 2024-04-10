@@ -106,6 +106,8 @@ When you enter the wrong password during registration. A message is displayed ab
 ### Decipher Note
 
 You must enter the encrypted password to view the content of the note.
+
+
 ![DecipherNote](./Images/PasswordEncryptNote.jpg)
 
 ### View encrypt note
