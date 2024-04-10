@@ -78,4 +78,15 @@ The application has:
 
 ## Illustrations:
 
-![Algorithm schema](./Images/SignIn.jpg)
+![SignIn](./Images/SignIn.jpg)
+![IncorrectSignIn](./Images/SignIncorrect.jpg)
+![IncorrectSignUp](./Images/YouCantCreateAccountWithTakenUsername.jpg)
+![IncorrectSignUp](./Images/SignUpInformation.jpg)
+![ViewEmptyNote](./Images/CreateNote.jpg)
+![AddPublicNoteWarsaw](./Images/AddPublicNoteWarsaw.jpg)
+![ViewPublicNoteWarsaw](./Images/ViewNote.jpg)
+![AddEncryptNoteCracow](./Images/CreateNewAndEncryptNoteCracow.jpg)
+![DecipherNote](./Images/PasswordEncryptNote.jpg)
+![ViewEncryptNoteCracow](./Images/ViewCracowNote.jpg)
+![ViewNoteFryderyk](./Images/ViewNoteFryderyk.jpg)
+![ViewNoteWojciech](./Images/ViewNoteWojciech.jpg)
