@@ -77,9 +77,10 @@ The application has:
 * registering and logging in with a password and a second verification component using the TOTP (time-based one-time password) algorithm.
 
 ## Illustrations:
-
+### Sign In
 ![SignIn](./Images/SignIn.jpg)
 ![IncorrectSignIn](./Images/SignInIncorrect.jpg)
+### Sign Up
 ![IncorrectSignUp](./Images/YouCantCreateAccountWithTakenUsername.jpg)
 ![IncorrectSignUp](./Images/SignUpInformation.jpg)
 ![ViewEmptyNote](./Images/CreateNote.jpg)
