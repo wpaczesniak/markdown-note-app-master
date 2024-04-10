@@ -90,12 +90,30 @@ The application has:
   <img src="./Images/SignUpInformation.jpg" width="350" height="650">
 </div>
 
-
+### Create new note
 ![ViewEmptyNote](./Images/CreateNote.jpg)
+
+### Create public note
 ![AddPublicNoteWarsaw](./Images/AddPublicNoteWarsaw.jpg)
+
+### View public note
 ![ViewPublicNoteWarsaw](./Images/ViewNote.jpg)
+
+### Create encrypt note
 ![AddEncryptNoteCracow](./Images/CreateNewAndEncryptNoteCracow.jpg)
+
+### Decipher Note
 ![DecipherNote](./Images/PasswordEncryptNote.jpg)
+
+### View encrypt note
 ![ViewEncryptNoteCracow](./Images/ViewCracowNote.jpg)
-![ViewNoteFryderyk](./Images/ViewNoteFryderyk.jpg)
+
+### View of all Wojciech's notes
+
+
 ![ViewNoteWojciech](./Images/ViewNoteWojciech.jpg)
+
+### View of all Fryderyk's notes
+![ViewNoteFryderyk](./Images/ViewNoteFryderyk.jpg)
+
+
