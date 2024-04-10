@@ -84,8 +84,14 @@ The application has:
 </div>
 
 ### Sign Up
-![IncorrectSignUp](./Images/YouCantCreateAccountWithTakenUsername.jpg)
-![IncorrectSignUp](./Images/SignUpInformation.jpg)
+
+
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="./Images/YouCantCreateAccountWithTakenUsername.jpg" width="300" height="650">
+  <img src="./Images/SignUpInformation.jpg" width="300" height="650">
+</div>
+
+
 ![ViewEmptyNote](./Images/CreateNote.jpg)
 ![AddPublicNoteWarsaw](./Images/AddPublicNoteWarsaw.jpg)
 ![ViewPublicNoteWarsaw](./Images/ViewNote.jpg)
