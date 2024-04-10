@@ -78,6 +78,7 @@ The application has:
 
 ## Illustrations:
 ### Sign In
+Application login view.
 <div style="display: flex; align-items: center; justify-content: center;">
   <img src="./Images/SignIn.jpg" width="300" height="400">
   <img src="./Images/SignInIncorrect.jpg" width="300" height="400">
@@ -85,7 +86,7 @@ The application has:
 
 ### Sign Up
 
-
+When you enter the wrong password during registration. A message is displayed about requirements such as: entropy, number of required characters, special characters.
 <div style="display: flex; align-items: center; justify-content: center;">
   <img src="./Images/SignUpInformation.jpg" width="350" height="650">
 </div>
@@ -103,17 +104,23 @@ The application has:
 ![AddEncryptNoteCracow](./Images/CreateNewAndEncryptNoteCracow.jpg)
 
 ### Decipher Note
+
+You must enter the encrypted password to view the content of the note.
 ![DecipherNote](./Images/PasswordEncryptNote.jpg)
 
 ### View encrypt note
 ![ViewEncryptNoteCracow](./Images/ViewCracowNote.jpg)
 
+### View of all Fryderyk's notes
+
+Fryderyk does not see Wojciech's encrypted notes. Fryderyk can edit his notes.
+![ViewNoteFryderyk](./Images/ViewNoteFryderyk.jpg)
+
+
 ### View of all Wojciech's notes
-
-
+Wojciech sees all his notes both encrypted and public. Wojciech sees Fryderyk's public notes. Wojciech can edit his notes.
 ![ViewNoteWojciech](./Images/ViewNoteWojciech.jpg)
 
-### View of all Fryderyk's notes
-![ViewNoteFryderyk](./Images/ViewNoteFryderyk.jpg)
+
 
 
