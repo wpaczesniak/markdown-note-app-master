@@ -78,4 +78,4 @@ The application has:
 
 ## Illustrations:
 
-![Algorithm schema](./Images/SignIn)
+![Algorithm schema](./Images/SignIn.jpg)
