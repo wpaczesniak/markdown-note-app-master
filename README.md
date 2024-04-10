@@ -88,7 +88,6 @@ The application has:
 
 <div style="display: flex; align-items: center; justify-content: center;">
   <img src="./Images/YouCantCreateAccountWithTakenUsername.jpg" width="350" height="650">
-  <img src="./Images/SignUpInformation.jpg" width="350" height="650">
 </div>
 
 
