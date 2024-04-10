@@ -78,10 +78,11 @@ The application has:
 
 ## Illustrations:
 ### Sign In
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="./Images/SignIn.jpg" width="300" height="400">
+  <img src="./Images/SignInIncorrect.jpg" width="300" height="400">
+</div>
 
-<img src="./Images/SignIn.jpg" width="300" height="400" style="margin-right: 10px;">
-
-<img src="./Images/SignInIncorrect.jpg" width="300" height="400">
 ### Sign Up
 ![IncorrectSignUp](./Images/YouCantCreateAccountWithTakenUsername.jpg)
 ![IncorrectSignUp](./Images/SignUpInformation.jpg)
