@@ -79,7 +79,7 @@ The application has:
 ## Illustrations:
 
 ![SignIn](./Images/SignIn.jpg)
-![IncorrectSignIn](./Images/SignIncorrect.jpg)
+![IncorrectSignIn](./Images/SignInIncorrect.jpg)
 ![IncorrectSignUp](./Images/YouCantCreateAccountWithTakenUsername.jpg)
 ![IncorrectSignUp](./Images/SignUpInformation.jpg)
 ![ViewEmptyNote](./Images/CreateNote.jpg)
